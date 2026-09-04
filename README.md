@@ -43,11 +43,3 @@ Gosto de transformar dados brutos em insights estratégicos e soluções intelig
 
 ![Snake Animation](https://github.com/Pedro-Soares09/Pedro-Soares09/blob/output/github-contribution-grid-snake.svg)
 
----
-
-###  **Estatísticas do GitHub**
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pedro-Soares09&show_icons=true&theme=radial" alt="Estatísticas do GitHub" />
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pedro-Soares09&layout=compact&theme=radial" alt="Linguagens mais usadas" />
-</p>
