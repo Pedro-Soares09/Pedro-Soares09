@@ -48,6 +48,6 @@ Gosto de transformar dados brutos em insights estratégicos e soluções intelig
 ###  **Estatísticas do GitHub**
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Pedro-Soares09&show_icons=true&theme=radial" alt="Estatísticas do GitHub" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Soares09&layout=compact&theme=radial" alt="Linguagens mais usadas" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Pedro-Soares09&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro-Soares09&theme=tokyonight" alt="GitHub Streak" />
 </p>
