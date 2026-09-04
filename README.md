@@ -1,18 +1,19 @@
 # Hi, I'm Pedro Soares 
 ### **Estudante de Análise e Desenvolvimento de Sistemas | Foco em Engenharia & Análise de Dados**
 
-Gosto de transformar dados brutos em insights estratégicos e soluções inteligentes, desenvolvendo desde pipelines de processamento até dashboards e modelos preditivos.
+Gosto de transformar dados brutos em insights estratégicos e soluções inteligentes, desenvolvendo desde pipelines de processamento até dashboards e análises preditivas.
 
 ---
 
 ###  **Tecnologias & Ferramentas**
 
-#### **Dados & Backend**
+#### **Dados, Análise & Banco de Dados**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" height="40"/>
 </p>
 
 #### **Desenvolvimento Web & Interfaces**
@@ -39,9 +40,15 @@ Gosto de transformar dados brutos em insights estratégicos e soluções intelig
 
 ---
 
+###  **Contribution Snake**
+
+![Snake Animation](https://github.com/Pedro-Soares09/Pedro-Soares09/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ###  **Estatísticas do GitHub**
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=pedropsoares&show_icons=true&theme=radial" alt="Estatísticas do GitHub" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropsoares&layout=compact&theme=radial" alt="Linguagens mais usadas" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Pedro-Soares09&show_icons=true&theme=radial" alt="Estatísticas do GitHub" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Soares09&layout=compact&theme=radial" alt="Linguagens mais usadas" />
 </p>
